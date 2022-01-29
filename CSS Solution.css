@@ -1,0 +1,38 @@
+html {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+
+}
+
+.border-1 {
+    background-color: hsl(0, 0%, 100%);
+    padding: 1.5em;
+    border-radius: 1em;
+    margin: 4em;
+
+}
+
+.img1 {
+    border-radius: 1em;
+}
+
+
+.improve {
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.notbolded {
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+
+}
